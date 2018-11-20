@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://vignette.wikia.nocookie.net/simpsons/images/5/50/Wiki-background/revision/latest/scale-to-width-down/1024?cb=20111015160455);
+    background-size: cover;
+
+}
+
+.logo{
+    color: yellow;
+    font-size: 35px;
+    text-align: center;
+}
+
+#container{
+    width: 60%;
+    margin: 20px auto;
+    overflow: auto;
+}
+
+.results{
+    text-align: center;
+}
+
+#timer{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.button{
+    text-align: center;
+    border-color: yellow;
+}
+
+.hiddenText{
+    display: none;
+}
+
+.displayAnswers{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+    
